@@ -11,3 +11,7 @@
 12 onions
 8 bugs
 3 wheat
+5 mangoes
+25 instance noodles
+10 beers
+
