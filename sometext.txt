@@ -8,4 +8,6 @@
 2 peppers
 10 eggs
 20 bananas
-
+12 onions
+8 bugs
+3 wheat
